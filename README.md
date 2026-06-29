@@ -61,7 +61,7 @@ The blank-page problem is real in consulting. Every junior consultant has experi
 
 ```bash
 # Clone the repo
-git clone https://github.com/gankaili88/pitch-deck-generator
+git clone [https://github.com/gankaili88/pitch-deck-generator](https://github.com/gankaili88/pitch-deck-generator)
 cd pitch-deck-generator
 
 # Create and activate virtual environment
