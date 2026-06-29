@@ -2,8 +2,9 @@
 
 An AI-powered tool that generates structured consulting pitch decks as downloadable PowerPoint files. Built for aspiring and current consultants who want a credible first-draft accelerator grounded in real consulting deck conventions.
 
-> 🔗 **Live demo:** *Coming soon — deploying to Streamlit Cloud*
-> 📊 **Sample output:** See `/sample_decks/` for example outputs
+> 🔗 **Live demo:** [pitch-deck-generator-gankaili.streamlit.app](https://pitch-deck-generator-gankaili.streamlit.app/)
+> 📊 **Companion project:** [Excel Formula Generator (Project 1)](https://github.com/gankaili88/excel-formula-generator)
+---
 
 ---
 
